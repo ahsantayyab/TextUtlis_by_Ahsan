@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtlis_by_Ahsan/static/css/main.903d4b6e.css",
+    "main.js": "/TextUtlis_by_Ahsan/static/js/main.07a7a608.js",
+    "static/js/453.5e560239.chunk.js": "/TextUtlis_by_Ahsan/static/js/453.5e560239.chunk.js",
+    "index.html": "/TextUtlis_by_Ahsan/index.html",
+    "main.903d4b6e.css.map": "/TextUtlis_by_Ahsan/static/css/main.903d4b6e.css.map",
+    "main.07a7a608.js.map": "/TextUtlis_by_Ahsan/static/js/main.07a7a608.js.map",
+    "453.5e560239.chunk.js.map": "/TextUtlis_by_Ahsan/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.903d4b6e.css",
+    "static/js/main.07a7a608.js"
+  ]
+}
